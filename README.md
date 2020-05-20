@@ -1,2 +1,2 @@
-# Faktöriyel_Uygulaması
+# Faktöriyel Uygulaması
 Faktöriyel hesaplaması yapan konsol uygulaması
